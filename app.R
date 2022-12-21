@@ -16,7 +16,7 @@ ui <- fluidPage(
                   max = 10,
                   value = c(1, 5),
                   step = 0.25),
-      sliderInput(inputId = "bins",
+      sliderInput(inputId = "sausages",
                   label = "Number of bins:",
                   min = 1,
                   max = 50,
